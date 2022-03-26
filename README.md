@@ -1,5 +1,5 @@
 # OOP-and-Data-Structure
-OOP-and-Data-Structure, spring 21'
+OOP-and-Data-Structure, Spring 21'
 
 project 1: Dungeon.
 Implementation of Role-Play-Game using object-oriented programming
